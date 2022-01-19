@@ -6,7 +6,7 @@
 <br />⚡ Fun fact: I'm also a classically-trained jazz pianist and music producer!
 <br />
 
-[![Archish's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodfod)](https://github.com/anuraghazra/github-readme-stats)
+[![Archish's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodfod&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
