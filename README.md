@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Archish
-🔭 I’m currently working on UpSide, a blockchain-enabled digital assets exchange which I founded with my roommate!
+🔭 I’m currently working on UpSide, a digital assets exchange and entrepreneurial tool which I founded with my roommate!
 <br />😄 Pronouns: he/him/his
 <br />👯 I’m looking to collaborate on dApps, FinTech, and any next-gen tech projects!
 <br />📫 How to reach me: archisharun99@gmail.com
