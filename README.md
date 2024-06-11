@@ -1,5 +1,3 @@
-👋 about me: 
----
 ```
 🙋🏾‍♂️ archish arun 
 🎓 stanford cs '25/26 
